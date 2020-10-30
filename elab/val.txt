@@ -1,0 +1,10 @@
+/home/leo/liyang/train_data/elab/image/val/20201026104034.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026111558.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026105758.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026104037.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026105804.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026111545.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026104021.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026104028.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026110429.jpeg
+/home/leo/liyang/train_data/elab/image/val/20201026110426.jpeg

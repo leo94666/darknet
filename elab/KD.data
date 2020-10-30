@@ -1,0 +1,5 @@
+classes=3
+train=/home/leo/liyang/yolo3/darknet/elab/train.txt
+valid=/home/leo/liyang/yolo3/darknet/elab/val.txt
+names=/home/leo/liyang/yolo3/darknet/elab/KD.names
+backup=backup/
